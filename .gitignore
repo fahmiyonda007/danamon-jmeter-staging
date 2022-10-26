@@ -1,0 +1,7 @@
+jmeter/
+report_ereg/
+report_gift/
+
+*.jtl
+*.log
+test-plan-list.xlsx
